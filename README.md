@@ -68,7 +68,6 @@ While my core strength is full-stack engineering, I’m actively expanding into 
 - 🔧 Strong in **enterprise full-stack**
 - ☁️ Actively moving deeper into **Cloud & DevOps**
 
-If you’re looking for someone who understands **both code and production reality**, let’s talk!
 
 ---
 
